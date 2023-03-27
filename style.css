@@ -1,0 +1,33 @@
+body{
+
+  background: cyan;
+
+  padding: 0px;
+
+  margin: 0px;
+
+}
+
+.taskbar{
+
+  background-color: black
+
+}
+
+#home{
+
+  color: white;
+
+}
+
+.taskbarr{
+
+  color: lime;
+
+}
+
+#settings{
+
+  color: white;
+
+}
